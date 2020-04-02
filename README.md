@@ -1,4 +1,4 @@
-#TCP Keep Alive Time Report Script
+# TCP Keep Alive Time Report Script
 
 1.0 - 5/15/2017 - Initial Release
 
@@ -30,7 +30,7 @@ If you decide to change the TCP Keep Alive Time values, keep in mind that the ch
 
  
 
-#Requirements
+# Requirements
 
 PowerShell 3.0, Exchange Management Shell, and administrative privileges on the local as well as target Exchange Servers within the local AD site.
 
