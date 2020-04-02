@@ -1,3 +1,5 @@
+#TCP Keep Alive Time Report Script
+
 1.0 - 5/15/2017 - Initial Release
 
 1.01 - 6/28/2017 - Fixed a Foreach loop bug asking TCP KeepAliveTime values for each server when multiple servers were modified.
@@ -28,6 +30,8 @@ If you decide to change the TCP Keep Alive Time values, keep in mind that the ch
 
  
 
-Requirements are PowerShell 3.0, Exchange Management Shell, and administrative privileges on the local as well as target Exchange Servers within the local AD site.
+#Requirements
+
+PowerShell 3.0, Exchange Management Shell, and administrative privileges on the local as well as target Exchange Servers within the local AD site.
 
  
